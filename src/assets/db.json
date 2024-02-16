@@ -1,0 +1,28 @@
+{
+  "customer": [
+    {
+      "id": "1dcc",
+      "name": "sohel",
+      "email": "sohel@gmail.com",
+      "pickup": "Karve Nagar,Krishnai Plaza,Parking B2",
+      "city": "ausa",
+      "state": "maharashtra",
+      "zipcode": "355",
+      "contact": "353535",
+      "date": "2024-02-28",
+      "time": "10:24"
+    },
+    {
+      "id": "00a1",
+      "name": "Nilesh Kshirsagar",
+      "email": "nkshirsagar088@gmail.com",
+      "pickup": "Karve Nagar,Krishnai Plaza,Parking B2",
+      "city": "Ausa",
+      "state": "maharashtra",
+      "zipcode": "413520",
+      "contact": "5363433",
+      "date": "2024-02-13",
+      "time": "05:27"
+    }
+  ]
+}
